@@ -1,0 +1,7 @@
+node_modules
+dist
+*.log
+server.pid
+.env
+.DS_Store
+mcp-server-apple-reminders.plist
